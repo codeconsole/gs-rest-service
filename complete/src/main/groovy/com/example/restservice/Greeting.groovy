@@ -1,5 +1,8 @@
 package com.example.restservice;
 
+import groovy.transform.CompileStatic
+
+@CompileStatic
 public class Greeting {
 
 	private final long id;
